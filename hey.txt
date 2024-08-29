@@ -1,3 +1,7 @@
 hay friends
 can we meet tomorrow
+<<<<<<< HEAD
 no i cant
+=======
+yes ofcourse
+>>>>>>> newbranch
